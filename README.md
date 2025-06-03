@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 ## 🛠 Tech Stack
 
-- *Languages:* TypeScript, JavaScript, Dart, PHP, Python  
+- *Languages:* HTML, CSS, TypeScript, JavaScript, Dart, PHP, Python  
 - *Frameworks:* React, Flutter, Laravel, Inertia.js  
 - *Cloud & Tools:* Firebase, Azure, DigitalOcean, MySQL, GitHub Actions  
 - *Others:* REST APIs, Firestore, Tailwind CSS, Figma, Canva  
