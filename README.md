@@ -34,6 +34,12 @@ Welcome to my GitHub profile!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimandanish02&layout=compact&theme=radical)
 
+## 🏢 GitHub Activity at D'Swift Technologies
+
+Here’s my contribution activity on our company account [aiman-netizen](https://github.com/aiman-netizen):
+
+![Company GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiman-netizen&show_icons=true&theme=radical)
+
 ## 📫 How to Reach Me
 
 - 📧 Email: [aimandanish955@gmail.com](mailto:aimandanish955@gmail.com)  
