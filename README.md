@@ -32,10 +32,6 @@ Welcome to my GitHub profile!
 
 ![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimandanish02&show_icons=true&theme=radical)
 
-## 🏢 GitHub Activity at D'Swift Technologies
-
-Here’s my contribution activity on our company account [aiman-netizen](https://github.com/aiman-netizen):
-
 ![Company GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiman-netizen&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiman-netizen&layout=compact&theme=radical)
