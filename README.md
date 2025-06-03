@@ -34,11 +34,11 @@ Welcome to my GitHub profile!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimandanish02&layout=compact&theme=radical)
 
-## 🏢 Contributions at D'Swift Technologies
+## 🏢 GitHub Activity at iPen Sdn. Bhd.
 
-Here's my activity under the company GitHub account:
+Here’s my contribution activity on our company account [aiman-netizen](https://github.com/aiman-netizen):
 
-![aiman-netizen GitHub contribution graph](https://your-image-host.com/aiman-contribution-graph.png)
+![Company GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiman-netizen&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
