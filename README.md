@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 - 🎓 Fresh graduate in Computer Science (Netcentric Computing)  
 - 🚀 Passionate developer and tech enthusiast  
-- 💼 Previously developed: HRM systems, mobile apps, e-commerce platforms, and internal portals  
+- 💼 Previously developed: blockchain based e-certificate management system, inventory tracking system, mobile apps, e-commerce platforms, and internal portals  
 - 🎯 Interests: AI, cloud infrastructure, system design, frontend and backend technology  
 - 📍 Based in Malaysia  
 
