@@ -34,10 +34,6 @@ Welcome to my GitHub profile!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimandanish02&layout=compact&theme=radical)
 
-## 📈 Contribution Activity
-
-![Aiman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aimandanish02&theme=dracula)
-
 ## 📫 How to Reach Me
 
 - 📧 Email: [aimandanish955@gmail.com](mailto:aimandanish955@gmail.com)  
