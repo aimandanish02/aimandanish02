@@ -32,6 +32,10 @@ Welcome to my GitHub profile!
 
 ![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimandanish02&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimandanish02&layout=compact&theme=radical)
+
+[![Aiman's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aimandanish02&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📫 How to Reach Me
 
 - 📧 Email: [aimandanish955@gmail.com](mailto:aimandanish955@gmail.com)  
