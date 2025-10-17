@@ -4,16 +4,15 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-- 🎓 Fresh graduate in Computer Science (Netcentric Computing)  
+- 🎓 graduate in Computer Science (Netcentric Computing)  
 - 🚀 Passionate developer and tech enthusiast  
-- 💼 Previously developed: blockchain based e-certificate management system, inventory tracking system, mobile apps, e-commerce platforms, and internal portals  
 - 🎯 Interests: AI, cloud infrastructure, system design, frontend and backend technology  
 - 📍 Based in Malaysia  
 
 ## 🛠 Tech Stack
 
-- *Languages:* HTML, CSS, TypeScript, JavaScript, Dart, PHP, Python  
-- *Frameworks:* React, Flutter, Laravel, Inertia.js  
+- *Languages:* HTML, CSS, TypeScript, JavaScript, PHP, Python
+- *Frameworks:* React, NextJS, ExpressJS, Laravel, Inertia.js, Strapi
 - *Cloud & Tools:* Firebase, Azure, DigitalOcean, MySQL, GitHub Actions  
 - *Others:* REST APIs, Firestore, Tailwind CSS, Figma, Canva  
 
@@ -25,8 +24,8 @@ Welcome to my GitHub profile!
 - 📦 *Inventory Tracker Web App*  
   A lightweight and user-friendly inventory management tool for small businesses.
 
-- 📱 *Malay Heritage App* (Flutter)  
-  A mobile application showcasing Malaysian cultural heritage.
+- 🧑‍💼 *HRS* 
+  Human Resource Managemnet System.
 
 ## 📈 GitHub Stats
 
