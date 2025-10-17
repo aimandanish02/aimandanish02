@@ -27,12 +27,6 @@ Welcome to my GitHub profile!
 - 🧑‍💼 *HRS* 
   Human Resource Managemnet System.
 
-## 📈 GitHub Stats
-
-![Aiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimandanish02&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimandanish02&layout=compact&theme=radical)
-
 ## 🏢 GitHub Activity at iPen Sdn. Bhd.
 
 Here’s my contribution activity on our company account [aiman-netizen](https://github.com/aiman-netizen):
