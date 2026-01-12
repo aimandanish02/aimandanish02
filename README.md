@@ -11,9 +11,9 @@ Welcome to my GitHub profile!
 
 ## 🛠 Tech Stack
 
-- *Languages:* HTML, CSS, TypeScript, JavaScript, PHP, Python
+- *Languages:* HTML, CSS, TypeScript, JavaScript, PHP, Python, Go
 - *Frameworks:* React, NextJS, ExpressJS, Laravel, Inertia.js, Strapi
-- *Cloud & Tools:* Firebase, Azure, DigitalOcean, MySQL, GitHub Actions  
+- *Cloud & Tools:* Firebase, Azure, DigitalOcean, MySQL, GitHub Actions, Docker  
 - *Others:* REST APIs, Firestore, Tailwind CSS, Figma, Canva  
 
 ## 📂 Featured Projects
